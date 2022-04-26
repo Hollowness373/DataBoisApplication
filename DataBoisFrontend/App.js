@@ -10,8 +10,12 @@ import Register from "./Pages/Register";
 import Home from "./Pages/Home";
 import Cart from "./Pages/Cart";
 import CheckOut from "./Pages/CheckOut";
-import Headphone1 from "./Pages/ItemsPage/Headphone1"
-import Headphone2 from "./Pages/ItemsPage/Headphone2"
+import Headphone1 from "./Pages/ItemsPage/Headphone1";
+import Headphone2 from "./Pages/ItemsPage/Headphone2";
+import ArduinoUno from "./Pages/ItemsPage/ArduinoUno";
+import ArduinoNano from "./Pages/ItemsPage/ArduinoNano";
+import L298n from "./Pages/ItemsPage/L298n";
+import SN74HC08 from "./Pages/ItemsPage/SN74HC08";
 
 function App() {
   return (
@@ -53,6 +57,26 @@ function App() {
           component={Headphone2}
         />
 
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="ArduinoUno"
+          component={ArduinoUno}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="ArduinoNano"
+          component={ArduinoNano}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="L298n"
+          component={L298n}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="SN74HC08"
+          component={SN74HC08}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
