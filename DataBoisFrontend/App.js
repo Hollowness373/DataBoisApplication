@@ -16,6 +16,9 @@ import ArduinoUno from "./Pages/ItemsPage/ArduinoUno";
 import ArduinoNano from "./Pages/ItemsPage/ArduinoNano";
 import L298n from "./Pages/ItemsPage/L298n";
 import SN74HC08 from "./Pages/ItemsPage/SN74HC08";
+import Quantity from "./Pages/ItemsPage/Quantity"
+import Earphone from "./Pages/ItemsPage/Earphone"
+import Mouse from "./Pages/ItemsPage/Mouse"
 
 function App() {
   return (
@@ -76,6 +79,21 @@ function App() {
           options={{ headerShown: false }}
           name="SN74HC08"
           component={SN74HC08}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="Earphone"
+          component={Earphone}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="Mouse"
+          component={Mouse}
+        />
+        <Stack.Screen
+          options={{ headerShown: false }}
+          name="Quantity"
+          component={Quantity}
         />
       </Stack.Navigator>
     </NavigationContainer>
