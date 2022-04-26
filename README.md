@@ -1,6 +1,7 @@
 # DataBoisApplication
 
 Members:
-    Bryan Yj Actub
-    Kyle Allan T. Lico
-    Neonnel T. Aoanan
+Bryan Yj Actub,
+Russell Caile T. Tayag,
+Neonnel T. Aoanan,
+Kyle Allan T. Lico
