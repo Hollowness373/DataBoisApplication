@@ -1,3 +1,4 @@
 # DataBoisApplication
 
-Reset
+Members:
+    Bryan Yj Actub
