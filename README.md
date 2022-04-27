@@ -11,9 +11,9 @@ DataBois is an E-commerce app where users can order items in the Application.
 - Gimuel H. Palibino
 
 ## User Interface
-![Banner](images/Login.jpg)
-![Banner](images/Register.jpg)
-![Banner](images/Home.jpg)
-![Banner](images/Product.jpg)
-![Banner](images/Cart.jpg)
-![Banner](images/Checkout.jpg)
+![Banner](images/Login.jpg) <br>
+![Banner](images/Register.jpg) <br>
+![Banner](images/Home.jpg) <br>
+![Banner](images/Product.jpg) <br>
+![Banner](images/Cart.jpg) <br>
+![Banner](images/Checkout.jpg) <br>
