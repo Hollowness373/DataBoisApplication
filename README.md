@@ -1,5 +1,5 @@
 # DataBoisApplication
-
+    DataBois is an E-commerce app where users can order items in the Application
 
 ## Members:
     - Bryan Yj Actub
