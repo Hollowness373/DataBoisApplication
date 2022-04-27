@@ -12,10 +12,11 @@ DataBois is an E-commerce app where users can order items in the Application.
 
 ## User Interface
 <p align=center>
-![Banner](images/Login.jpg) <br>
-![Banner](images/Register.jpg) <br>
-![Banner](images/Home.jpg) <br>
-![Banner](images/Product.jpg) <br>
-![Banner](images/Cart.jpg) <br>
-![Banner](images/Checkout.jpg) <br>
+  <img src="/images/Login.jpg" /> <br>
+  <img src="/images/Register.jpg" /> <br>
+  <img src="/images/Home.jpg" /> <br>
+  <img src="/images/Product.jpg" /> <br>
+  <img src="/images/Cart.jpg" /> <br>
+  <img src="/images/Checkout.jpg" /> <br>
 </p>
+
