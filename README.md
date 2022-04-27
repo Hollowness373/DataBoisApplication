@@ -2,8 +2,8 @@
 
 
 ## Members:
-<p>Bryan Yj Actub,</p>
-<p>Russell Caile T. Tayag,</p>
-<p>Neonnel T. Aoanan,</p>
-<p>Kyle Allan T. Lico</p>
-<p>Gimuel H. Palibino</p>
+    - Bryan Yj Actub
+    - Russell Caile T. Tayag
+    - Neonnel T. Aoanan
+    - Kyle Allan T. Lico
+    - Gimuel H. Palibino
