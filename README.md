@@ -1,5 +1,6 @@
 # DataBoisApplication
 DataBois is an E-commerce app where users can order items in the Application.
+Note: All front-end codes are in development branch.
 ## Note!
  - Switch to development branch for codes
 
